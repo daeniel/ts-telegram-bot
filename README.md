@@ -175,12 +175,3 @@ process.on('SIGINT', async () => {
   console.log('Webhook deleted');
 });
 ```
-
-
-## Tests
-```bash
-npm test
-```
-CI/CD is set up with GitHub Actions. Tests and linters are run on every pull request.
-
-If you want to run tests locally, follow the instructions in [tests/README.md](tests/).
