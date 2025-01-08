@@ -175,3 +175,5 @@ process.on('SIGINT', async () => {
   console.log('Webhook deleted');
 });
 ```
+
+Telegram: [@dillon130](https://t.me/dillon130)
